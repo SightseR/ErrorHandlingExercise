@@ -1,4 +1,4 @@
-# Simplified Error Handling Exercise Using Design Patterns in Java
+# Error Handling Exercise Using Design Patterns in Java
 
 ### Objective:
 Implement basic error handling using the **Strategy Pattern** and **Command Pattern** in Java.
